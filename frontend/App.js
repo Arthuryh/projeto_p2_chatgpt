@@ -44,7 +44,7 @@ export default function App() {
       });
   };
 
-  const sentimentosExibidos = sentimentoItem.slice(0, 3);
+  const sentimentosExibidos = sentimentoItem.slice(0, 4);
 
   return (
     <View style={styles.container}>
